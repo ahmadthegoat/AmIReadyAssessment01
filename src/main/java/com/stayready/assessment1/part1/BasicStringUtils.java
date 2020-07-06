@@ -1,12 +1,16 @@
 package com.stayready.assessment1.part1;
 
+
 public class BasicStringUtils {
     /**
-     * @param str string input from client
+     * @para_input from client
      * @return string with identical content, and the first character capitalized
      */
+   
+
     public static String camelCase(String str) {
-        return null;
+        String identical1 = str.substring(0, 1).toUpperCase() + str.substring(1); 
+        return identical1;
     }
 
     /**

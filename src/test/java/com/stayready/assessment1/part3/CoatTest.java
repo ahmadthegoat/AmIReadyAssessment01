@@ -8,8 +8,8 @@ public class CoatTest {
     private String size = "Large";
 
     private Coat coat;
-
-//    @Test
+    
+    @Test
 //    public void testEmptyConstruction(){
 //        coat = new Coat();
 //

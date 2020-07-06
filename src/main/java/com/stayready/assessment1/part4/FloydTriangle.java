@@ -6,9 +6,9 @@ package com.stayready.assessment1.part4;
  * starting with a 1 in the top left corner:
  *
  * 1
- * 2 	3
- * 4 	5 	6
- * 7 	8 	9 	10
+ * 2 3
+ * 4 5 6
+ * 7 8 9 10
  *
  * https://en.wikipedia.org/wiki/Floyd%27s_triangle
  */
